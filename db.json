@@ -1,0 +1,64 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "apellido": "Martinez",
+      "materias": [
+        {
+          "nombre": "Matemática"
+        },
+        {
+          "nombre": "Física"
+        },
+        {
+          "nombre": "Química"
+        }
+      ],
+      "id": "b0a9"
+    },
+    {
+      "nombre": "Camila",
+      "apellido": "Suarez",
+      "materias": [
+        {
+          "nombre": "Matemática"
+        }
+      ],
+      "id": "2af1"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "María",
+      "apellido": "Rodriguez",
+      "promedio": 7.2,
+      "id": "7885"
+    },
+    {
+      "nombre": "José",
+      "apellido": "Perez",
+      "promedio": 6.4,
+      "id": "abe3"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Matemática",
+      "duracion": 9,
+      "dificultad": "Intermedia",
+      "id": "43df"
+    },
+    {
+      "nombre": "Física",
+      "duracion": 15,
+      "dificultad": "Alta",
+      "id": "5985"
+    },
+    {
+      "nombre": "Química",
+      "duracion": 7,
+      "dificultad": "Intermedia",
+      "id": "5d35"
+    }
+  ]
+}
